@@ -87,6 +87,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="NRGbvaWVTnNYALB_0vKa-27" value="Report Designer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="70" y="80" width="230" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
